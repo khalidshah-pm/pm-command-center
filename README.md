@@ -66,7 +66,7 @@ Just a Google account — no payment, no trial.
 ### 2. Clone and install
 
 ```bash
-git clone https://github.com/virankh/pm-command-center.git
+git clone https://github.com/khalidshah-pm/pm-command-center.git
 cd pm-command-center
 pip install -r requirements.txt
 ```
@@ -131,7 +131,7 @@ PM Command Center is built from real PM experience. The outputs are structured a
 **KhalidShah Virani** — Associate Product Manager at Ecolab | Chemical Engineering + MBA | Building AI tools for enterprise PM and product teams.
 
 - [LinkedIn](https://linkedin.com/in/your-profile)
-- [GitHub](https://github.com/virankh)
+- [GitHub](https://github.com/khalidshah-pm)
 
 ---
 

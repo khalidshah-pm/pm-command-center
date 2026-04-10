@@ -66,8 +66,8 @@ st.divider()
 
 st.markdown("""
 <div style="text-align: center; color: #6c757d; font-size: 0.85rem; padding: 1rem 0;">
-    Built by <a href="https://github.com/virankh" target="_blank">KhalidShah Virani</a> &nbsp;·&nbsp;
+    Built by <a href="https://github.com/khalidshah-pm" target="_blank">KhalidShah Virani</a> &nbsp;·&nbsp;
     Powered by Google Gemini (free tier) &nbsp;·&nbsp;
-    <a href="https://github.com/virankh/pm-command-center" target="_blank">View on GitHub</a>
+    <a href="https://github.com/khalidshah-pm/pm-command-center" target="_blank">View on GitHub</a>
 </div>
 """, unsafe_allow_html=True)
